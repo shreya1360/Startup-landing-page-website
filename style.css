@@ -1,0 +1,37 @@
+.btn-outline-primary{
+    color:#EA3A60;
+    border-color: #EA3A60;
+    
+
+
+}
+.bg-image{
+    background-image: url(img/shape.png);
+    background-repeat: no-repeat;
+background-position: center center;
+/* background-attachment: fixed; */
+background-size: cover;
+}
+
+.function{
+    color: #EA3A60;
+    height: 100px;
+}
+
+.pattern{
+   
+    background-image:url(img/pattern.png) ;
+    background-color: #EA3A60;
+}
+.star{
+    color:orange;
+}
+.subscribe{
+    background-image: url(img/pattern1.png); 
+    background-color: #EA3A60;
+}
+
+.team-hover:hover{
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    color: #EA3A60;
+}
